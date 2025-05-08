@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url(https://i0.wp.com/poltronanerd.com.br/wp-content/uploads/2016/11/sakura-card.gif?resize=591%2C332) #e3f2fd;
+    background: url(https://i.pinimg.com/originals/04/4a/3b/044a3b413eed0fba0fdfe9af3b6db030.gif) #6157a6;
     
 }
 
@@ -23,13 +23,13 @@ body{
     overflow: hidden;
     flex-direction: column;
     justify-content: center;
-    background: url(https://i.pinimg.com/originals/36/36/26/363626108468d89388b7873ccacc3a92.gif) #b52c77;
+    background: url() #6d1a86;
     border-radius: 5px;
     box-shadow: 0 20px 40px rgba(172, 188, 255, 0.2);
 }
 
 .game-details{
-    color: #b8c6dc;
+    color: #ffffff;
     font-weight: 500;
     font-size: 1.2rem;
     padding: 20px 27px;
@@ -41,7 +41,7 @@ body{
     height: 100%;
     width: 100%;
     display: grid;
-    background: #e1dde0;
+    background: #9146c6;
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
