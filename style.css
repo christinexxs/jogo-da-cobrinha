@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: url(https://i.pinimg.com/originals/04/4a/3b/044a3b413eed0fba0fdfe9af3b6db030.gif) #6157a6;
+    background: url(https://i.pinimg.com/originals/99/6c/05/996c056a0e9ebdcd1ceb8efc65c724b0.gif) #6157a6;
     
 }
 
@@ -23,7 +23,7 @@ body{
     overflow: hidden;
     flex-direction: column;
     justify-content: center;
-    background: url() #6d1a86;
+    background: url(https://i.pinimg.com/originals/99/6c/05/996c056a0e9ebdcd1ceb8efc65c724b0.gif) #490e5b;
     border-radius: 5px;
     box-shadow: 0 20px 40px rgba(172, 188, 255, 0.2);
 }
@@ -41,7 +41,7 @@ body{
     height: 100%;
     width: 100%;
     display: grid;
-    background: #9146c6;
+    background: #5e2a83;
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
